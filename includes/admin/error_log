@@ -1,0 +1,5 @@
+[19-Mar-2025 11:24:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/admin/edit.data.config.php:134
+Stack trace:
+#0 /home/perazimp/public_html/includes/admin/edit.data.config.php(134): mysqli_query(Object(mysqli), 'UPDATE `propert...')
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/admin/edit.data.config.php on line 134

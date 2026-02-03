@@ -1,0 +1,1258 @@
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(Administration/config.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(Administration/config.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(): Failed opening 'Administration/config.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(Administration/mysql.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(Administration/mysql.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(): Failed opening 'Administration/mysql.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(includes/view/header.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(includes/view/header.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(): Failed opening 'includes/view/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(includes/view/processor/home.data.config.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(includes/view/processor/home.data.config.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(): Failed opening 'includes/view/processor/home.data.config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(includes/view/home.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(includes/view/home.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(): Failed opening 'includes/view/home.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(includes/view/footer.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(includes/view/footer.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:09:21 UTC] PHP Warning:  include(): Failed opening 'includes/view/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(Administration/config.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(Administration/config.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(): Failed opening 'Administration/config.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(Administration/mysql.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(Administration/mysql.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(): Failed opening 'Administration/mysql.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(includes/view/header.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(includes/view/header.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(): Failed opening 'includes/view/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(includes/view/processor/home.data.config.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(includes/view/processor/home.data.config.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(): Failed opening 'includes/view/processor/home.data.config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(includes/view/home.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(includes/view/home.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(): Failed opening 'includes/view/home.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(includes/view/footer.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(includes/view/footer.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:13:53 UTC] PHP Warning:  include(): Failed opening 'includes/view/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(Administration/config.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(Administration/config.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(): Failed opening 'Administration/config.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 5
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(Administration/mysql.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(Administration/mysql.inc.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(): Failed opening 'Administration/mysql.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 7
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(includes/view/header.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(includes/view/header.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(): Failed opening 'includes/view/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 9
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(includes/view/processor/home.data.config.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(includes/view/processor/home.data.config.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(): Failed opening 'includes/view/processor/home.data.config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 11
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(includes/view/home.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(includes/view/home.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(): Failed opening 'includes/view/home.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 13
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(includes/view/footer.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(includes/view/footer.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:25:46 UTC] PHP Warning:  include(): Failed opening 'includes/view/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/index.php on line 15
+[19-Dec-2024 15:29:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'pera')
+#1 /home/perazimp/public_html/about.php(6): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[19-Dec-2024 15:29:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'pera')
+#1 /home/perazimp/public_html/index.php(7): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[19-Dec-2024 15:29:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'pera')
+#1 /home/perazimp/public_html/index.php(7): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[19-Dec-2024 15:29:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'pera')
+#1 /home/perazimp/public_html/index.php(7): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[19-Dec-2024 15:30:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'pera')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[21-Dec-2024 15:04:55 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:04:55 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:04:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:05:16 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:05:16 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:05:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:05:21 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:05:21 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:05:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:07:36 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:07:36 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:07:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/perazimp/public_html/mailer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 7
+[21-Dec-2024 15:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/perazimp/public_html/mailer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 7
+[21-Dec-2024 15:11:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/perazimp/public_html/mailer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 7
+[21-Dec-2024 15:11:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/perazimp/public_html/mailer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 7
+[21-Dec-2024 15:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/perazimp/public_html/mailer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 7
+[21-Dec-2024 15:20:52 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:20:52 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:20:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:20:59 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:20:59 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:20:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:21:09 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:21:09 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:21:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:10 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:10 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:13 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:13 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:26 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:26 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:52 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:52 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:22:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:01 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:01 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:05 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:05 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:31 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:31 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:23:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:02 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:02 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:10 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:10 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:14 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:14 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:26:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:27:36 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:27:36 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:27:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 6
+[21-Dec-2024 15:30:39 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 15:30:39 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 15:30:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 15:38:47 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 15:38:47 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 15:38:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 15:38:59 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 15:38:59 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 15:38:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/mailer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/mailer.php on line 10
+[21-Dec-2024 19:38:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[21-Dec-2024 19:38:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[21-Dec-2024 19:38:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Dec-2024 12:12:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:12:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:13:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:13:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:14:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:18:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:18:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:18:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:19:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[22-Dec-2024 12:20:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/activate.php:13
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(13): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 13
+[23-Dec-2024 06:48:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[23-Dec-2024 06:48:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[23-Dec-2024 07:02:23 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/perazimp/public_html/includes/view/forgot_password.php on line 8
+[23-Dec-2024 07:03:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/perazimp/public_html/includes/view/forgot_password.php:6
+Stack trace:
+#0 /home/perazimp/public_html/forgot_password.php(11): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 6
+[23-Dec-2024 07:03:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/perazimp/public_html/includes/view/forgot_password.php:6
+Stack trace:
+#0 /home/perazimp/public_html/forgot_password.php(11): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 6
+[23-Dec-2024 07:04:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/perazimp/public_html/includes/view/forgot_password.php:6
+Stack trace:
+#0 /home/perazimp/public_html/forgot_password.php(11): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 6
+[23-Dec-2024 07:04:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/includes/view/forgot_password.php:7
+Stack trace:
+#0 /home/perazimp/public_html/forgot_password.php(11): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 7
+[23-Dec-2024 07:04:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/includes/view/forgot_password.php:7
+Stack trace:
+#0 /home/perazimp/public_html/forgot_password.php(11): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 7
+[23-Dec-2024 07:06:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:23
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(23): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 23
+[23-Dec-2024 07:34:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:23
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(23): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 23
+[23-Dec-2024 07:34:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:23
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(23): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 23
+[23-Dec-2024 07:35:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:23
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(23): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 23
+[23-Dec-2024 07:38:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:26
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(26): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 26
+[23-Dec-2024 07:38:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:26
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(26): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 26
+[23-Dec-2024 07:38:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:26
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(26): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 26
+[23-Dec-2024 07:39:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:26
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(26): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 26
+[23-Dec-2024 07:44:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:26
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(26): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 26
+[23-Dec-2024 07:46:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:26
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(26): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 26
+[23-Dec-2024 07:46:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1 in /home/perazimp/public_html/includes/view/forgot_password.php:26
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(26): mysqli_query(Object(mysqli), 'UPDATE `users` ...')
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 26
+[23-Dec-2024 08:02:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_affected_rows(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/perazimp/public_html/includes/view/forgot_password.php:28
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(28): mysqli_affected_rows(true)
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 28
+[23-Dec-2024 08:02:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_affected_rows(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/perazimp/public_html/includes/view/forgot_password.php:28
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(28): mysqli_affected_rows(true)
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 28
+[23-Dec-2024 08:05:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_affected_rows(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/perazimp/public_html/includes/view/forgot_password.php:28
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(28): mysqli_affected_rows(true)
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 28
+[23-Dec-2024 08:05:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_affected_rows(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/perazimp/public_html/includes/view/forgot_password.php:28
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(28): mysqli_affected_rows(true)
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 28
+[23-Dec-2024 08:06:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_affected_rows(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/perazimp/public_html/includes/view/forgot_password.php:28
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(28): mysqli_affected_rows(true)
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 28
+[23-Dec-2024 08:07:08 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_affected_rows(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/perazimp/public_html/includes/view/forgot_password.php:28
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(28): mysqli_affected_rows(true)
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 28
+[23-Dec-2024 08:08:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_affected_rows(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/perazimp/public_html/includes/view/forgot_password.php:28
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/forgot_password.php(28): mysqli_affected_rows(true)
+#1 /home/perazimp/public_html/forgot_password.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/forgot_password.php on line 28
+[24-Dec-2024 04:32:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[24-Dec-2024 04:32:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[24-Dec-2024 04:32:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[24-Dec-2024 16:10:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '. $token_hash . ''' at line 1 in /home/perazimp/public_html/includes/view/activate.php:6
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(6): mysqli_query(Object(mysqli), 'SELECT Id FROM ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 6
+[24-Dec-2024 16:10:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '. $token_hash . ''' at line 1 in /home/perazimp/public_html/includes/view/activate.php:6
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(6): mysqli_query(Object(mysqli), 'SELECT Id FROM ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 6
+[24-Dec-2024 16:27:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '. becbf98c5bdf25436d2f5af1a1ba2df127eb6cf0f4dc49cba7aa90b23646c850 . ''' at line 1 in /home/perazimp/public_html/includes/view/activate.php:6
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/activate.php(6): mysqli_query(Object(mysqli), 'SELECT Id FROM ...')
+#1 /home/perazimp/public_html/activate-account.php(10): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/activate.php on line 6
+[26-Dec-2024 08:42:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Resource temporarily unavailable in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[28-Dec-2024 12:43:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[29-Dec-2024 14:48:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:50:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:50:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:51:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:52:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:52:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:52:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:53:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:54:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:54:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:54:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 18
+[29-Dec-2024 14:56:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 20
+[29-Dec-2024 14:58:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 20
+[29-Dec-2024 14:58:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 20
+[29-Dec-2024 14:59:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 20
+[29-Dec-2024 15:00:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 20
+[29-Dec-2024 15:00:25 UTC] PHP Warning:  require(vendor/autoloa.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:00:25 UTC] PHP Warning:  require(vendor/autoloa.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:00:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoloa.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/checkout.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:00:31 UTC] PHP Warning:  require(vendor/autoloa.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:00:31 UTC] PHP Warning:  require(vendor/autoloa.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:00:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoloa.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/checkout.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:01:48 UTC] PHP Warning:  require(vendor/autoloa.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:01:48 UTC] PHP Warning:  require(vendor/autoloa.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:01:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoloa.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/checkout.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/checkout.php on line 6
+[29-Dec-2024 15:02:15 UTC] PHP Warning:  require(vendor/autoloa.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/checkout.php on line 11
+[29-Dec-2024 15:02:15 UTC] PHP Warning:  require(vendor/autoloa.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/checkout.php on line 11
+[29-Dec-2024 15:02:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoloa.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/checkout.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/checkout.php on line 11
+[29-Dec-2024 15:02:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:1) in /home/perazimp/public_html/checkout.php on line 25
+[29-Dec-2024 15:03:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perazimp/public_html/checkout.php:14) in /home/perazimp/public_html/checkout.php on line 24
+[03-Jan-2025 05:55:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide3" in /home/perazimp/public_html/includes/view/invest_now.php:25
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(36): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/invest_now.php on line 25
+[03-Jan-2025 05:57:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide3" in /home/perazimp/public_html/includes/view/invest_now.php:44
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(36): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/invest_now.php on line 44
+[03-Jan-2025 05:57:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide3" in /home/perazimp/public_html/includes/view/invest_now.php:44
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(36): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/invest_now.php on line 44
+[03-Jan-2025 05:58:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide3" in /home/perazimp/public_html/includes/view/invest_now.php:44
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/invest_now.php on line 44
+[03-Jan-2025 05:58:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide3" in /home/perazimp/public_html/includes/view/invest_now.php:44
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/invest_now.php on line 44
+[03-Jan-2025 05:58:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide4" in /home/perazimp/public_html/includes/view/invest_now.php:46
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/invest_now.php on line 46
+[03-Jan-2025 05:59:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide4" in /home/perazimp/public_html/includes/view/invest_now.php:46
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/invest_now.php on line 46
+[03-Jan-2025 06:02:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide4" in /home/perazimp/public_html/includes/view/checkout.php:39
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(38): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/checkout.php on line 39
+[03-Jan-2025 06:03:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide4" in /home/perazimp/public_html/includes/view/checkout.php:39
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/checkout.php on line 39
+[03-Jan-2025 06:03:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide4" in /home/perazimp/public_html/includes/view/checkout.php:39
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/checkout.php on line 39
+[03-Jan-2025 06:14:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide4" in /home/perazimp/public_html/includes/view/checkout.php:39
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/checkout.php on line 39
+[03-Jan-2025 06:15:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide4" in /home/perazimp/public_html/includes/view/checkout.php:39
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/checkout.php on line 39
+[03-Jan-2025 06:15:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ide4" in /home/perazimp/public_html/includes/view/checkout.php:39
+Stack trace:
+#0 /home/perazimp/public_html/invest_now.php(40): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/checkout.php on line 39
+[03-Jan-2025 15:44:37 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 26
+[03-Jan-2025 15:44:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 26
+[03-Jan-2025 15:44:37 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 26
+[03-Jan-2025 15:44:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 26
+[03-Jan-2025 15:49:35 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 41
+[03-Jan-2025 15:49:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 41
+[03-Jan-2025 15:49:35 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 41
+[03-Jan-2025 15:49:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 41
+[03-Jan-2025 15:51:04 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:51:04 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:53:33 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:53:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:53:33 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:53:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:55:13 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:55:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:55:13 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:55:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:56:15 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:56:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:56:15 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:56:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:56:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:56:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:56:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:56:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:59:41 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:59:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:59:41 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 15:59:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:02:36 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:02:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:02:36 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:02:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:05:18 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:05:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:05:18 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:05:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:06:05 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:06:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:06:05 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:06:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:07:06 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:07:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:07:06 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:07:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:09:45 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:09:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:09:45 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:09:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:11:38 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:11:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:11:38 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:11:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:12:27 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:12:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:12:27 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:12:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:12:51 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:12:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:12:51 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:12:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:13:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:13:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:13:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:13:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:28:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:28:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:28:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:28:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:46:26 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:46:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:46:26 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:46:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:46:26 UTC] PHP Warning:  Undefined variable $recipientCode in /home/perazimp/public_html/withdrawal.php on line 60
+[03-Jan-2025 16:47:38 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:47:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:47:38 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:47:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:47:38 UTC] PHP Warning:  Undefined variable $recipientCode in /home/perazimp/public_html/withdrawal.php on line 60
+[03-Jan-2025 16:47:41 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:47:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:47:41 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:47:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/withdrawal.php on line 25
+[03-Jan-2025 16:47:41 UTC] PHP Warning:  Undefined variable $recipientCode in /home/perazimp/public_html/withdrawal.php on line 60
+[03-Jan-2025 16:52:12 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:52:12 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:52:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:52:43 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:52:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:52:43 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:52:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:53:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:53:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:53:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:53:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:55:52 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:55:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:55:52 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:55:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:57:08 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:57:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:57:08 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:57:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:58:06 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:58:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:58:06 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:58:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:58:10 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:58:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:58:10 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:58:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:59:53 UTC] PHP Parse error:  Invalid numeric literal in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 16:59:56 UTC] PHP Parse error:  Invalid numeric literal in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 17:00:05 UTC] PHP Parse error:  Invalid numeric literal in /home/perazimp/public_html/profile.php on line 43
+[03-Jan-2025 17:36:30 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/perazimp/public_html/withdrawal.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/withdrawal.php on line 80
+[04-Jan-2025 07:01:24 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 41
+[04-Jan-2025 07:01:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 41
+[04-Jan-2025 07:01:24 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[04-Jan-2025 07:01:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[04-Jan-2025 07:02:15 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 41
+[04-Jan-2025 07:02:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 41
+[04-Jan-2025 07:02:15 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/perazimp/public_html/profile.php on line 43
+[04-Jan-2025 07:02:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/perazimp/public_html/profile.php on line 43
+[04-Jan-2025 22:26:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[05-Jan-2025 01:36:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[06-Jan-2025 07:00:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/perazimp/public_html/includes/user/withdrawal.php:110
+Stack trace:
+#0 /home/perazimp/public_html/withdrawal.php(13): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/user/withdrawal.php on line 110
+[06-Jan-2025 07:07:23 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/perazimp/public_html/includes/user/withdrawal.php:110
+Stack trace:
+#0 /home/perazimp/public_html/withdrawal.php(13): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/user/withdrawal.php on line 110
+[07-Jan-2025 04:42:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[07-Jan-2025 12:53:14 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/perazimp/public_html/includes/user/withdrawal.php:109
+Stack trace:
+#0 /home/perazimp/public_html/withdrawal.php(13): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/user/withdrawal.php on line 109
+[07-Jan-2025 12:56:35 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/perazimp/public_html/includes/user/withdrawal.php:109
+Stack trace:
+#0 /home/perazimp/public_html/withdrawal.php(13): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/user/withdrawal.php on line 109
+[07-Jan-2025 12:57:15 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/perazimp/public_html/includes/user/withdrawal.php:109
+Stack trace:
+#0 /home/perazimp/public_html/withdrawal.php(13): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/user/withdrawal.php on line 109
+[09-Jan-2025 10:32:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function numer_format() in /home/perazimp/public_html/includes/view/packages.php:42
+Stack trace:
+#0 /home/perazimp/public_html/packages.php(13): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/packages.php on line 42
+[10-Jan-2025 12:07:42 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/perazimp/public_html/includes/view/processor/package.data.config.php:43
+Stack trace:
+#0 /home/perazimp/public_html/packages.php(11): include()
+#1 {main}
+  thrown in /home/perazimp/public_html/includes/view/processor/package.data.config.php on line 43
+[13-Jan-2025 08:30:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[13-Jan-2025 08:30:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[13-Jan-2025 08:30:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[13-Jan-2025 16:32:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[15-Jan-2025 03:50:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[20-Jan-2025 13:55:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE property_id='' AND Id_in= ''' at line 1 in /home/perazimp/public_html/includes/view/verification.php:58
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/verification.php(58): mysqli_query(Object(mysqli), 'UPDATE `investm...')
+#1 /home/perazimp/public_html/payment_verification.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/verification.php on line 58
+[20-Jan-2025 13:55:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE property_id='' AND Id_in= ''' at line 1 in /home/perazimp/public_html/includes/view/verification.php:58
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/verification.php(58): mysqli_query(Object(mysqli), 'UPDATE `investm...')
+#1 /home/perazimp/public_html/payment_verification.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/verification.php on line 58
+[20-Jan-2025 13:55:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE property_id='' AND Id_in= ''' at line 1 in /home/perazimp/public_html/includes/view/verification.php:58
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/verification.php(58): mysqli_query(Object(mysqli), 'UPDATE `investm...')
+#1 /home/perazimp/public_html/payment_verification.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/verification.php on line 58
+[20-Jan-2025 13:55:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE property_id='' AND Id_in= ''' at line 1 in /home/perazimp/public_html/includes/view/verification.php:58
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/verification.php(58): mysqli_query(Object(mysqli), 'UPDATE `investm...')
+#1 /home/perazimp/public_html/payment_verification.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/verification.php on line 58
+[20-Jan-2025 13:56:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE property_id='' AND Id_in= ''' at line 1 in /home/perazimp/public_html/includes/view/verification.php:58
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/verification.php(58): mysqli_query(Object(mysqli), 'UPDATE `investm...')
+#1 /home/perazimp/public_html/payment_verification.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/verification.php on line 58
+[20-Jan-2025 13:58:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE property_id='7' AND Id_in= '1'' at line 1 in /home/perazimp/public_html/includes/view/verification.php:58
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/verification.php(58): mysqli_query(Object(mysqli), 'UPDATE `investm...')
+#1 /home/perazimp/public_html/payment_verification.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/verification.php on line 58
+[20-Jan-2025 19:55:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Jan-2025 17:35:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Jan-2025 17:35:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Jan-2025 17:35:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[24-Jan-2025 06:09:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[25-Jan-2025 09:49:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[25-Jan-2025 11:45:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[30-Jan-2025 13:09:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Resource temporarily unavailable in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[03-Feb-2025 10:58:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[03-Feb-2025 19:41:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[03-Feb-2025 19:41:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[06-Feb-2025 09:36:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Resource temporarily unavailable in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[07-Feb-2025 13:07:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[07-Feb-2025 13:07:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[07-Feb-2025 17:44:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[08-Feb-2025 09:18:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[08-Feb-2025 09:18:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[08-Feb-2025 09:29:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/about.php(6): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[08-Feb-2025 09:34:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[08-Feb-2025 09:34:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[08-Feb-2025 09:44:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[10-Feb-2025 18:55:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[11-Feb-2025 11:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[11-Feb-2025 11:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[11-Feb-2025 17:31:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[12-Feb-2025 16:43:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[12-Feb-2025 16:43:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[15-Feb-2025 03:46:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[15-Feb-2025 11:17:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[15-Feb-2025 16:31:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[18-Feb-2025 13:04:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Feb-2025 00:46:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/about.php(6): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Feb-2025 00:46:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Feb-2025 06:30:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Feb-2025 06:30:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Feb-2025 23:34:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Feb-2025 23:34:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Feb-2025 23:34:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[22-Feb-2025 23:34:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[24-Feb-2025 13:36:45 UTC] PHP Parse error:  Unmatched ')' in /home/perazimp/public_html/includes/user/dashboard.php on line 149
+[24-Feb-2025 13:38:10 UTC] PHP Parse error:  Unmatched ')' in /home/perazimp/public_html/includes/user/dashboard.php on line 149
+[24-Feb-2025 14:57:53 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/perazimp/public_html/includes/user/dashboard.php on line 222
+[24-Feb-2025 15:13:09 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/perazimp/public_html/includes/user/dashboard.php on line 291
+[24-Feb-2025 15:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/perazimp/public_html/Administration/config.inc.php:310
+Stack trace:
+#0 /home/perazimp/public_html/includes/user/dashboard.php(206): remaining_days_percentage('2024-12-15 19:5...', '15-12-25', '24-02-25')
+#1 /home/perazimp/public_html/user.dashboard.php(15): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/config.inc.php on line 310
+[24-Feb-2025 15:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/perazimp/public_html/Administration/config.inc.php:310
+Stack trace:
+#0 /home/perazimp/public_html/includes/user/dashboard.php(206): remaining_days_percentage('2024-12-15 19:5...', '15-12-25', '24-02-25')
+#1 /home/perazimp/public_html/user.dashboard.php(15): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/config.inc.php on line 310
+[24-Feb-2025 15:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/perazimp/public_html/Administration/config.inc.php:310
+Stack trace:
+#0 /home/perazimp/public_html/includes/user/dashboard.php(206): remaining_days_percentage('2024-12-15 19:5...', '15-12-25', '02-24-2025')
+#1 /home/perazimp/public_html/user.dashboard.php(15): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/config.inc.php on line 310
+[24-Feb-2025 15:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/perazimp/public_html/Administration/config.inc.php:310
+Stack trace:
+#0 /home/perazimp/public_html/includes/user/dashboard.php(206): remaining_days_percentage('2024-12-15 19:5...', '15-12-25', '24-02-25')
+#1 /home/perazimp/public_html/user.dashboard.php(15): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/config.inc.php on line 310
+[27-Feb-2025 00:02:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[28-Feb-2025 07:03:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[28-Feb-2025 07:03:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[28-Feb-2025 10:11:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[28-Feb-2025 11:06:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[28-Feb-2025 21:24:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[04-Mar-2025 04:17:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[05-Mar-2025 05:19:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[05-Mar-2025 11:18:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[05-Mar-2025 18:22:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY investment.Id_in ASC' at line 1 in /home/perazimp/public_html/includes/view/processor/package.data.config.php:7
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/processor/package.data.config.php(7): mysqli_query(Object(mysqli), 'SELECT `Id`,`Ti...')
+#1 /home/perazimp/public_html/packages.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/processor/package.data.config.php on line 7
+[05-Mar-2025 19:44:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php:6
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php(6): mysqli_query(Object(mysqli), 'SELECT `Title`,...')
+#1 /home/perazimp/public_html/listings.single.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php on line 6
+[06-Mar-2025 21:35:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[10-Mar-2025 21:11:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Resource temporarily unavailable in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[12-Mar-2025 08:33:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[12-Mar-2025 19:44:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[14-Mar-2025 17:55:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[15-Mar-2025 15:55:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[20-Mar-2025 08:22:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY investment.Id_in ASC' at line 1 in /home/perazimp/public_html/includes/view/processor/package.data.config.php:7
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/processor/package.data.config.php(7): mysqli_query(Object(mysqli), 'SELECT `Id`,`Ti...')
+#1 /home/perazimp/public_html/packages.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/processor/package.data.config.php on line 7
+[20-Mar-2025 11:39:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[20-Mar-2025 16:08:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/perazimp/public_html/Administration/mysql.inc.php:7
+Stack trace:
+#0 /home/perazimp/public_html/Administration/mysql.inc.php(7): mysqli_connect('localhost', 'perazimp', Object(SensitiveParameterValue), 'perazimp_perave...')
+#1 /home/perazimp/public_html/index.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/Administration/mysql.inc.php on line 7
+[20-Mar-2025 16:33:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php:6
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php(6): mysqli_query(Object(mysqli), 'SELECT `Title`,...')
+#1 /home/perazimp/public_html/listings.single.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php on line 6
+[20-Mar-2025 21:03:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php:6
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php(6): mysqli_query(Object(mysqli), 'SELECT `Title`,...')
+#1 /home/perazimp/public_html/listings.single.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/processor/listings.single.data.config.php on line 6
+[20-Mar-2025 21:18:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY investment.Id_in ASC' at line 1 in /home/perazimp/public_html/includes/view/processor/package.data.config.php:7
+Stack trace:
+#0 /home/perazimp/public_html/includes/view/processor/package.data.config.php(7): mysqli_query(Object(mysqli), 'SELECT `Id`,`Ti...')
+#1 /home/perazimp/public_html/packages.php(11): include('/home/perazimp/...')
+#2 {main}
+  thrown in /home/perazimp/public_html/includes/view/processor/package.data.config.php on line 7

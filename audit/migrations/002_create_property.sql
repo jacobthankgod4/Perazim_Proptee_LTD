@@ -1,0 +1,22 @@
+-- Migration: create `property` table (singular as used in code)
+CREATE TABLE IF NOT EXISTS `property` (
+  `Id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `Title` VARCHAR(255) NOT NULL,
+  `Type` VARCHAR(64) DEFAULT NULL,
+  `Status` VARCHAR(64) DEFAULT 'active',
+  `Address` VARCHAR(255) DEFAULT NULL,
+  `City` VARCHAR(128) DEFAULT NULL,
+  `State` VARCHAR(128) DEFAULT NULL,
+  `Zip_Code` VARCHAR(32) DEFAULT NULL,
+  `Description` TEXT DEFAULT NULL,
+  `Price` DECIMAL(20,2) DEFAULT 0.00,
+  `Area` VARCHAR(64) DEFAULT NULL,
+  `Ammenities` TEXT DEFAULT NULL,
+  `Bedroom` INT DEFAULT NULL,
+  `Bathroom` INT DEFAULT NULL,
+  `Built_Year` INT DEFAULT NULL,
+  `Images` TEXT DEFAULT NULL,
+  `Video` VARCHAR(255) DEFAULT NULL,
+  `created_at` DATETIME DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`Id`)
+);

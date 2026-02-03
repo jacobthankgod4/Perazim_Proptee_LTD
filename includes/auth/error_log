@@ -1,0 +1,12 @@
+[22-Dec-2024 06:26:44 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/includes/auth/reg.data.config.php on line 11
+[22-Dec-2024 06:26:44 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/includes/auth/reg.data.config.php on line 11
+[22-Dec-2024 06:26:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/includes/auth/reg.data.config.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/includes/auth/reg.data.config.php on line 11
+[22-Dec-2024 06:26:46 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/includes/auth/reg.data.config.php on line 11
+[22-Dec-2024 06:26:46 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/perazimp/public_html/includes/auth/reg.data.config.php on line 11
+[22-Dec-2024 06:26:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/perazimp/public_html/includes/auth/reg.data.config.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/perazimp/public_html/includes/auth/reg.data.config.php on line 11

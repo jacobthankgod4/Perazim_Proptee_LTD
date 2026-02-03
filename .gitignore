@@ -1,0 +1,10 @@
+/.env
+.env.local
+# Ignore IDE/editor temp files
+/.vscode/
+/.idea/
+public_html/start/.env
+/.env.backup
+vendor/
+node_modules/
+.DS_Store

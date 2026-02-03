@@ -1,0 +1,73 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^/start
+# For Student Profile:
+RewriteRule ^home?$ index.php
+
+# For Student Profile:
+RewriteRule ^about?$ about.php
+
+# For Student Profile:
+RewriteRule ^ajo?$ target.php
+
+# For Student Profile:
+RewriteRule ^listings?$ listings.php
+
+# For Student Profile:
+RewriteRule ^faq?$ faq.php
+
+# For Student Profile:
+RewriteRule ^contact?$ contact.php
+
+# For Student Profile:
+RewriteRule ^withdrawal?$ withdrawal.php
+
+# For Student Profile:
+RewriteRule ^forgot-password?$ forgot_password.php
+
+# For Student Profile:
+RewriteRule ^login?$ login.php
+
+# For Student Profile:
+RewriteRule ^register?$ register.php
+
+# For Student Profile:
+RewriteRule ^my-investments?$ user.dashboard.php
+
+# For Student Profile:
+RewriteRule ^app-users?$ admin.dashboard.php
+
+# For Student Profile:
+RewriteRule ^maintenance-fee?$ maintenance.php
+
+# For Student Profile:
+RewriteRule ^property?$ property.php
+
+# For Student Profile:
+RewriteRule ^subscribers?$ subscribers.php
+
+# For Student Profile:
+RewriteRule ^edit-property?$ edit.property.php
+
+# For Student Profile:
+RewriteRule ^privacy-policy?$ privacy.php
+
+# For Student Profile:
+RewriteRule ^invest-now?$ invest_now.php
+
+# For Student Profile:
+RewriteRule ^terms-of-service?$ terms.php
+
+# For Student Profile:
+RewriteRule ^profile?$ profile.php
+
+# For Student Profile:
+RewriteRule ^edit-password?$ password.php
+
+# For Student Profile:
+#RewriteRule ^packages/([0-9]+)/?$ packages.php?identity=$1
+
+# For Student Profile:
+RewriteRule ^logout?$ logout.php    
+
+</IfModule>

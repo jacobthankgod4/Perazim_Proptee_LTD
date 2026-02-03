@@ -1,0 +1,36 @@
+table,column,example_file,context_line
+users,Id,includes/view/activate.php,SELECT Id FROM users WHERE account_activation_hash = ?
+users,Email,includes/auth/reg.data.config.php,SELECT Email FROM users WHERE Email = ?
+users,Password,includes/user/processor/pass.data.config.php,SELECT Password FROM users WHERE Email = ?
+users,account_activation_hash,includes/auth/reg.data.config.php,INSERT INTO users (..., account_activation_hash)
+users,reset_token_hash,includes/view/reset_password.php,SELECT reset_token_expires_at FROM users WHERE reset_token_hash = ?
+property,Id,includes/view/processor/listings.data.config.php,SELECT `Id`, `Title`, ... FROM `property`
+property,Title,includes/view/processor/listings.single.data.config.php,SELECT `Title`, `Address`, `Description`, ... FROM `property`
+property,Type,includes/admin/processor/property.select.php,SELECT `Type` FROM `property`
+property,Address,includes/admin/processor/property.select.php,SELECT `Address` FROM `property`
+property,City,includes/admin/processor/property.select.php,SELECT `City` FROM `property`
+property,State,includes/admin/processor/property.select.php,SELECT `State` FROM `property`
+property,Zip_Code,includes/admin/processor/property.select.php,SELECT `Zip_Code` FROM `property`
+property,Description,includes/admin/processor/property.select.php,SELECT `Description` FROM `property`
+property,Price,includes/admin/processor/property.select.php,SELECT `Price` FROM `property`
+property,Area,includes/admin/processor/property.select.php,SELECT `Area` FROM `property`
+property,Ammenities,includes/admin/processor/property.select.php,SELECT `Ammenities` FROM `property`
+property,Bedroom,includes/admin/processor/property.select.php,SELECT `Bedroom` FROM `property`
+property,Bathroom,includes/admin/processor/property.select.php,SELECT `Bathroom` FROM `property`
+property,Built_Year,includes/admin/processor/property.select.php,SELECT `Built_Year` FROM `property`
+property,Images,includes/view/processor/home.data.config.php,SELECT `Images` FROM `property` LEFT JOIN investment ...
+property,Video,includes/view/processor/home.data.config.php,SELECT `Video` FROM `property`
+investment,Id_in,includes/view/processor/package.data.config.php,SELECT `Id_in`, `interest`, ... FROM `property` LEFT JOIN investment ...
+investment,interest,includes/view/processor/home.data.config.php,SELECT `interest` FROM investment
+investment,share_cost,includes/view/processor/home.data.config.php,SELECT `share_cost` FROM investment
+investment,expected_inv,includes/view/processor/home.data.config.php,SELECT `expected_inv` FROM investment
+investment,current_inv,includes/view/processor/home.data.config.php,SELECT `current_inv` FROM investment
+investment,property_id,includes/admin/create.data.config.php,INSERT INTO `investment` (..., `property_id`)
+invest_now,Id_invest,includes/view/invest_now.php,SELECT Id_invest FROM invest_now WHERE package_id = ?
+invest_now,Usa_Id,includes/view/invest_now.php,SELECT Id_invest FROM invest_now WHERE package_id = ? AND Usa_Id = ?
+invest_now,proptee_id,includes/user/processor/dashboard.data.config.php,SELECT `proptee_id` FROM `invest_now`
+invest_now,package_id,includes/user/processor/dashboard.data.config.php,SELECT `package_id` FROM `invest_now`
+invest_now,start_date,includes/user/processor/dashboard.data.config.php,SELECT `start_date` FROM `invest_now`
+invest_now,period,includes/user/processor/dashboard.data.config.php,SELECT `period` FROM `invest_now`
+subscribers,Id,includes/view/processor/subscribers.data.config.php,SELECT Id FROM subscribers WHERE Subscribers = ?
+subscribers,Subscribers,includes/view/processor/subscribers.data.config.php,INSERT INTO `subscribers` (`Subscribers`) VALUES (?)
