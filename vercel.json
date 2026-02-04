@@ -1,5 +1,7 @@
 {
   "version": 2,
+  "buildCommand": "echo 'skip'",
+  "installCommand": "echo 'skip'",
   "routes": [
     {
       "src": "/assets/(.*)",
