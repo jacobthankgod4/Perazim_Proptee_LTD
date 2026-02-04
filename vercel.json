@@ -45,19 +45,19 @@
       "dest": "/public_html/index.php"
     }
   ],
-  "env": [
-    "DATABASE_URL",
-    "SUPABASE_URL",
-    "SUPABASE_ANON_KEY",
-    "SUPABASE_SERVICE_KEY",
-    "PAYSTACK_SECRET",
-    "PAYSTACK_PUBLIC",
-    "SMTP_HOST",
-    "SMTP_USER",
-    "SMTP_PASS",
-    "SMTP_PORT",
-    "SMTP_FROM",
-    "SMTP_FROM_NAME",
-    "LIVE"
-  ]
+  "env": {
+    "DATABASE_URL": "@database_url",
+    "SUPABASE_URL": "@supabase_url",
+    "SUPABASE_ANON_KEY": "@supabase_anon_key",
+    "SUPABASE_SERVICE_KEY": "@supabase_service_key",
+    "PAYSTACK_SECRET": "@paystack_secret",
+    "PAYSTACK_PUBLIC": "@paystack_public",
+    "SMTP_HOST": "@smtp_host",
+    "SMTP_USER": "@smtp_user",
+    "SMTP_PASS": "@smtp_pass",
+    "SMTP_PORT": "@smtp_port",
+    "SMTP_FROM": "@smtp_from",
+    "SMTP_FROM_NAME": "@smtp_from_name",
+    "LIVE": "@live"
+  }
 }
