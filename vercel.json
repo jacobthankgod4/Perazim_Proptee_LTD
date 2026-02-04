@@ -3,6 +3,7 @@
   "buildCommand": "echo 'skip'",
   "installCommand": "echo 'skip'",
   "outputDirectory": ".",
+  "routes": [
     {
       "src": "/assets/(.*)",
       "dest": "/assets/$1"
