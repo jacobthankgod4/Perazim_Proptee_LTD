@@ -1,7 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../../../includes/db/pdo_pg.php';
-$pdo = getPdoPostgres();
+$pdo = require __DIR__ . '/../../../includes/db/pdo_pg.php';
 
 $ide = isset($_POST['Id']) ? (int)$_POST['Id'] : 0;
 

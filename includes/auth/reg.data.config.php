@@ -136,8 +136,7 @@ $mail = new PHPMailer(true);
     if ($fname && $email && $pass  && $account) {        
         
             // Check whether email already exists using prepared statement
-            require_once __DIR__ . '/../db/pdo_pg.php';
-            $pdo = getPdoPostgres();
+            $pdo = require __DIR__ . '/../db/pdo_pg.php';
             
             $stmt = $pdo->prepare('SELECT "Email" FROM public.users WHERE "Email" = :email');
             $stmt->execute([':email' => $email]);

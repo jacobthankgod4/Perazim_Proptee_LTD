@@ -1,6 +1,5 @@
 <?php
-require_once __DIR__ . '/../../../includes/db/pdo_pg.php';
-$pdo = getPdoPostgres();
+$pdo = require __DIR__ . '/../../../includes/db/pdo_pg.php';
     
 $stmt = $pdo->prepare('SELECT u."Name", p."Title", p."Address", p."Images", in."start_date", in."period", inv."interest", inv."share_cost" FROM public.users u INNER JOIN public.invest_now in ON u."Id"=in."Usa_Id" INNER JOIN public.investment inv ON in."package_id"=inv."Id_in" INNER JOIN public.property p ON inv."property_id"=p."Id"');
 $stmt->execute();

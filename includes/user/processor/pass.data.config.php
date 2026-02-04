@@ -14,8 +14,7 @@
     if ($pass1 && $pass) {        
         
         // Fetch existing password hash using prepared statement
-        require_once __DIR__ . '/../../../includes/db/pdo_pg.php';
-        $pdo = getPdoPostgres();
+        $pdo = require __DIR__ . '/../../../includes/db/pdo_pg.php';
         
         $stmt = $pdo->prepare('SELECT "Password" FROM public.users WHERE "Email" = :email');
         $stmt->execute([':email' => $email]);

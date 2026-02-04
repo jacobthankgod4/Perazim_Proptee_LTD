@@ -1,7 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../../../includes/db/pdo_pg.php';
-$pdo = getPdoPostgres();
+$pdo = require __DIR__ . '/../../../includes/db/pdo_pg.php';
 
 $stmt = $pdo->prepare('SELECT "Id", "Title", "Address", "City", "State", "Zip_Code", "Images" FROM public.property WHERE "Status" = :status');
 $stmt->execute([':status' => 'investment']);

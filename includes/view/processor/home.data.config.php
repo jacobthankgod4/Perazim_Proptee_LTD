@@ -1,7 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../../../includes/db/pdo_pg.php';
-$pdo = getPdoPostgres();
+$pdo = require __DIR__ . '/../../../includes/db/pdo_pg.php';
 
 $stmt = $pdo->prepare('SELECT p."Id", p."Title", p."Type", p."Address", p."City", p."State", p."Zip_Code", p."Images", p."Video", i."interest", i."share_cost", i."expected_inv", i."current_inv" FROM public.property p LEFT JOIN public.investment i ON p."Id"=i.property_id ORDER BY RANDOM() LIMIT 4');
 $stmt->execute();

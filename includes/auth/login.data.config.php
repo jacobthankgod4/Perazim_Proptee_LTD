@@ -23,8 +23,7 @@
 
 		if (empty($log_error)) {
 			// PDO prepared statement for Postgres
-			require_once __DIR__ . '/../db/pdo_pg.php';
-			$pdo = getPdoPostgres();
+			$pdo = require __DIR__ . '/../db/pdo_pg.php';
 			$stmt = $pdo->prepare('SELECT "Id", "Email", "Password", "User_Type", "Name", "Account", "age", "gender", "bank", "account_activation_hash" FROM public.users WHERE "Email" = :email');
 			$stmt->execute([':email' => $le]);
 			$rows = $stmt->fetchAll(PDO::FETCH_ASSOC);

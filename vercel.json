@@ -1,6 +1,17 @@
 {
   "version": 2,
-  "buildCommand": "echo 'skip'",
-  "installCommand": "echo 'skip'",
-  "outputDirectory": "."
+  "functions": {
+    "*.php": {
+      "runtime": "vercel-php@0.6.0"
+    }
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ],
+  "env": {
+    "PHP_VERSION": "8.1"
+  }
 }

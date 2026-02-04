@@ -1,7 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../../../includes/db/pdo_pg.php';
-$pdo = getPdoPostgres();
+$pdo = require __DIR__ . '/../../../includes/db/pdo_pg.php';
 
 $stmt = $pdo->prepare('SELECT "Subscribers" FROM public.subscribers');
 $stmt->execute();
