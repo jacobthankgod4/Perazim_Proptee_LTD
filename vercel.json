@@ -2,7 +2,7 @@
   "version": 2,
   "buildCommand": "echo 'skip'",
   "installCommand": "echo 'skip'",
-  "routes": [
+  "outputDirectory": ".",
     {
       "src": "/assets/(.*)",
       "dest": "/assets/$1"
