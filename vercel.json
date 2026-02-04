@@ -2,27 +2,5 @@
   "version": 2,
   "buildCommand": "echo 'skip'",
   "installCommand": "echo 'skip'",
-  "outputDirectory": ".",
-  "routes": [
-    {
-      "src": "/assets/(.*)",
-      "dest": "/assets/$1"
-    },
-    {
-      "src": "/JavaScript/(.*)",
-      "dest": "/JavaScript/$1"
-    },
-    {
-      "src": "/i/(.*)",
-      "dest": "/i/$1"
-    },
-    {
-      "src": "/(.*\\.php)",
-      "dest": "/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.php"
-    }
-  ]
+  "outputDirectory": "."
 }
